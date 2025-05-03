@@ -54,7 +54,7 @@ const FAQ: React.FC = () => {
     {
       question: "Is there a warranty on this battery?",
       answer:
-        "Yes, we offer a 30-day warranty against manufacturing defects. This doesn't cover damage from improper installation or use.",
+        "Yes, we offer a 10-day warranty against manufacturing defects. This doesn't cover damage from improper installation or use.",
     },
     {
       question: "How long will shipping take?",

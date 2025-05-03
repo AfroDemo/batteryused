@@ -20,9 +20,9 @@ const OrderSection: React.FC = () => {
             <div className="md:w-1/2 p-8">
               <h3 className="text-2xl font-bold text-slate-800 mb-4">Nokia Battery - 2000mAh</h3>
               <div className="flex items-center mb-4">
-                <span className="text-3xl font-bold text-indigo-600">$24.99</span>
-                <span className="ml-2 line-through text-slate-500">$34.99</span>
-                <span className="ml-2 bg-green-100 text-green-800 text-xs font-medium px-2 py-1 rounded">Save 29%</span>
+                <span className="text-3xl font-bold text-indigo-600">TzS 4000</span>
+                <span className="ml-2 line-through text-slate-500">TzS 2000</span>
+                <span className="ml-2 bg-green-100 text-green-800 text-xs font-medium px-2 py-1 rounded">Save 50%</span>
               </div>
               
               <ul className="mb-8 space-y-2">
@@ -40,7 +40,7 @@ const OrderSection: React.FC = () => {
                 </li>
                 <li className="flex items-center text-slate-600">
                   <span className="h-2 w-2 bg-indigo-600 rounded-full mr-2"></span>
-                  30-day warranty
+                  10-day warranty
                 </li>
                 <li className="flex items-center text-slate-600">
                   <span className="h-2 w-2 bg-indigo-600 rounded-full mr-2"></span>

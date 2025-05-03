@@ -8,7 +8,7 @@ const Specifications: React.FC = () => {
     { name: "Condition", value: "Used - Excellent" },
     { name: "Cycles", value: "Less than 100" },
     { name: "Compatible Models", value: "Nokia 6.1, 7 Plus, 7.1" },
-    { name: "Warranty", value: "30 days" },
+    { name: "Warranty", value: "10 days" },
     { name: "Origin", value: "Genuine Nokia Part" }
   ];
 
