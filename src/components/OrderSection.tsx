@@ -58,7 +58,7 @@ const OrderSection: React.FC = () => {
             
             <div className="md:w-1/2">
               <img 
-                src="https://images.pexels.com/photos/4195509/pexels-photo-4195509.jpeg" 
+                src="https://m.media-amazon.com/images/I/71uzqhRkH0L._AC_SL1500_.jpg" 
                 alt="Nokia Battery Package" 
                 className="h-full w-full object-cover"
               />

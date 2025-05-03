@@ -19,7 +19,7 @@ const Specifications: React.FC = () => {
           <div className="md:w-1/2">
             <div className="bg-white p-6 rounded-xl shadow-lg overflow-hidden relative">
               <img 
-                src="https://images.pexels.com/photos/4195324/pexels-photo-4195324.jpeg" 
+                src="https://m.media-amazon.com/images/I/71J+YIEVXWL._AC_SL1500_.jpg" 
                 alt="Nokia Battery Close-up" 
                 className="w-full h-auto rounded-lg object-cover transition-transform hover:scale-105"
               />

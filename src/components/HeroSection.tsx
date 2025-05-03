@@ -38,7 +38,7 @@ const HeroSection: React.FC = () => {
           <div className="md:w-1/2 relative animate-float">
             <div className="bg-white p-4 rounded-xl shadow-2xl">
               <img 
-                src="https://images.pexels.com/photos/4066131/pexels-photo-4066131.jpeg" 
+                src="https://m.media-amazon.com/images/I/711qWIL96NL._AC_SL1500_.jpg" 
                 alt="Nokia Battery 2000mAh" 
                 className="w-full h-auto rounded-lg object-cover"
               />
