@@ -1,6 +1,6 @@
 [build]
   command = "yarn build"
-  publish = "dist" # Use "build" if you're using Create React App instead of Vite
+  publish = "build" # Use "build" if you're using Create React App instead of Vite
 
 [[redirects]]
   from = "/*"
